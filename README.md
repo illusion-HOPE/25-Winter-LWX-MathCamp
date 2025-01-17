@@ -21,12 +21,16 @@ This is a platform to store some math resources for my friend in this winter vac
 | 2025/1/19 | Practice 7 | Answer 7 | Suitable for a target score of 90 |
 
 ---
+
+**[Click here to get the exercises to return to the content of the textbook!](./For%20Star%20[Textbook].pdf)**
+
+---
 **Some exercises to return to the content of the textbook**:
 
-| Date | Topic | Reference Answers | From |
+| Due | Topic | Reference Answers | From |
 | :----------: | :----------: | :----------: | :----------: |
-| 2025/1/17 | Statistics and Probability-1 | [Answer 1](./Reference%20Answers/回归教材参考解答1.pdf) | People's Education Press, Edition A, Compulsory Book II, Selective Compulsory Book III, Mathematics |
-| 2025/1/18 | Statistics and Probability-2 | [Answer 2](./Reference%20Answers/回归教材参考解答2.pdf) | People's Education Press, Edition A, Compulsory Book II, Selective Compulsory Book III, Mathematics |
+| 2025/1/19 | Statistics and Probability-1 | Answer 1 | People's Education Press, Edition A, Compulsory Book II, Selective Compulsory Book III, Mathematics |
+| 2025/1/21 | Statistics and Probability-2 | Answer 2 | People's Education Press, Edition A, Compulsory Book II, Selective Compulsory Book III, Mathematics |
 
 ---
 
