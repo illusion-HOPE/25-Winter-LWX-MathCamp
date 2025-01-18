@@ -5,7 +5,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 **[Click here to get the whole practice file!](./For%20Star.pdf)**
 
-**Update time**: 2025/1/17
+**Update time**: 2025/1/18
 
 ---
 
@@ -29,7 +29,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 **[Click here to get the exercises to return to the content of the textbook!](./For%20Star%20[Textbook].pdf)**
 
-**Update time**: 2025/1/17
+**Update time**: 2025/1/18
 
 ---
 **Some exercises to return to the content of the textbook**:
