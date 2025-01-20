@@ -42,13 +42,13 @@ This is a platform to store some math resources for my friend in this winter vac
 | 2025/1/23 | Statistics and Probability-2 | Answer 2 | Edition A, CB-II,  SCB-III |
 | 2025/1/27 | Sequence of Numbers | Answer 3 | Edition A (B), SCB-II (-III) |
 | 2025/1/28-2025/1/31 | **Days off to celebrate Chinese New Year.** | | 
-| 2025/2/1 | Elementary Functions and Derivatives | Answer 4 | Edition A (B), CB-I (-I,II,III),  SCB-II (-III) |
-| 2025/2/2 | Sets, Inequalities, Complex Numbers | Answer 5 | Edition A (B), CB-I,II (-I,IV) |
-| 2025/2/4 | Trigonometric Formulas, Plane Vector Algebra | Answer 6 | Edition A (B), CB-I,II (-II,III) |
-| 2025/2/7 | Solid Geometry | Answer 7 | Edition A (B), CB-II (-IV), SCB-I (-I) |
+| 2025/2/4 | Elementary Functions and Derivatives | Answer 4 | Edition A (B), CB-I (-I,II,III),  SCB-II (-III) |
+| 2025/2/5 | Sets, Inequalities, Complex Numbers | Answer 5 | Edition A (B), CB-I,II (-I,IV) |
+| 2025/2/7 | Trigonometric Formulas, Plane Vector Algebra | Answer 6 | Edition A (B), CB-I,II (-II,III) |
 | 2025/2/8 | **A Day off to celebrate birthday of 20. Wish him all the best** | | 
-| 2025/2/10 | Plane Analytic Geometry-1 | Answer 8 | Edition A (B), SCB-I (-I) |
-| 2025/2/12 | Plane Analytic Geometry-2 | Answer 9 | Edition A (B), SCB-I (-I) |
+| 2025/2/11 | Solid Geometry | Answer 7 | Edition A (B), CB-II (-IV), SCB-I (-I) |
+| 2025/2/13 | Plane Analytic Geometry-1 | Answer 8 | Edition A (B), SCB-I (-I) |
+| 2025/2/16 | Plane Analytic Geometry-2 | Answer 9 | Edition A (B), SCB-I (-I) |
 
 
 ---
