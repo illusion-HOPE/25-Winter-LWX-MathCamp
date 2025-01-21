@@ -5,7 +5,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 **[Click here to get the whole practice file!](./For%20Star.pdf)**
 
-**Update time**: 2025/1/20
+**Update time**: 2025/1/22
 
 ---
 
@@ -19,11 +19,15 @@ This is a platform to store some math resources for my friend in this winter vac
 | 2025/1/14 | Practice 4 | [Answer 4](./Reference%20Answers/参考解答4.pdf) | It is more difficult beyond my expectation. |
 | 2025/1/15 | | | A day off for **Honkai: Star Dome Railway game** version update | 
 | 2025/1/16 | [Exam 1](./Exam/Exam1.pdf) | [Answer for Exam 1](./Reference%20Answers/试卷参考解答1.pdf), [Official answer 1 provided](./Reference%20Answers/试卷官方参考解答1.pdf)  | Suitable for a target score of 110 |
-| 2025/1/17 | Practice 5 | Answer 5 | Suitable for a target score of 90 |
-| 2025/1/18 | Practice 6 | Answer 6 | Suitable for a target score of 90 |
+| 2025/1/17 | Practice 5 | [Answer 5](./Reference%20Answers/参考解答5.pdf) | Suitable for a target score of 90 |
+| 2025/1/18 | Practice 6 | [Answer 6](./Reference%20Answers/参考解答6.pdf) | Suitable for a target score of 90 |
 | 2025/1/19 | Practice 7 | Answer 7 | Suitable for a target score of 110 |
-| 2025/1/20 | Practice 8 | Answer 8 | Suitable for a target score of 120 |
-| 2025/1/21 | Exam 2 | Answer for Exam 2, Official answer 2 provided  | Suitable for a target score of 110 |
+| 2025/1/20 | Practice 8 | [Answer 8](./Reference%20Answers/参考解答8.pdf) | Suitable for a target score of 120 |
+| 2025/1/21 | [Exam 2](./Exam/Exam2.pdf) | [Answer for Exam 2](./Reference%20Answers/试卷参考解答2.pdf), [Official answer 2 provided](./Reference%20Answers/试卷官方参考解答2.pdf)  | Suitable for a target score of 110 |
+| 2025/1/22 | Practice 9 | Answer 9 | Suitable for a target score of 90 |
+| 2025/1/23-2025/1/31 | | | **Days off to celebrate Chinese New Year.** |
+| 2025/2/1 | Exam 3 | Answer for Exam 3, Official answer 3 provided  | Suitable for a target score of 110 |
+
 
 ---
 
