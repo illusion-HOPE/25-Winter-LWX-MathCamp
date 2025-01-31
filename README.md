@@ -33,7 +33,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 **[Click here to get the exercises to return to the content of the textbook!](./For%20Star%20[Textbook].pdf)**
 
-**Update time**: 2025/1/21
+**Update time**: 2025/1/31
 
 ---
 **Some exercises to return to the content of the textbook**:
