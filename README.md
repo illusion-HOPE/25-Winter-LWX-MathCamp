@@ -48,11 +48,10 @@ This is a platform to store some math resources for my friend in this winter vac
 | 2025/1/28 | **A Day off to celebrate birthday of 20. Wish him become his own star.** | | 
 | 2025/1/29-2025/1/31 | **Days off to celebrate Chinese New Year.** | | 
 | 2025/2/4 | Elementary Functions and Derivatives | Answer 4 | Edition A (B), CB-I (-I,II,III),  SCB-II (-III) |
-| 2025/2/5 | Sets, Inequalities, Complex Numbers | Answer 5 | Edition A (B), CB-I,II (-I,IV) |
-| 2025/2/7 | Trigonometric Formulas, Plane Vector Algebra | Answer 6 | Edition A (B), CB-I,II (-II,III) |
-| 2025/2/11 | Solid Geometry | Answer 7 | Edition A (B), CB-II (-IV), SCB-I (-I) |
-| 2025/2/13 | Plane Analytic Geometry-1 | Answer 8 | Edition A (B), SCB-I (-I) |
-| 2025/2/16 | Plane Analytic Geometry-2 | Answer 9 | Edition A (B), SCB-I (-I) |
+| 2025/2/7 | Sets, Inequalities, Complex Numbers | Answer 5 | Edition A (B), CB-I,II (-I,IV) |
+| 2025/2/10 | Trigonometric Formulas, Plane Vector Algebra | Answer 6 | Edition A (B), CB-I,II (-II,III) |
+| 2025/2/13 | Solid Geometry | Answer 7 | Edition A (B), CB-II (-IV), SCB-I (-I) |
+| 2025/2/16 | Plane Analytic Geometry | Answer 8 | Edition A (B), SCB-I (-I) |
 
 
 ---
