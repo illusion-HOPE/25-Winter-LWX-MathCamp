@@ -9,7 +9,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 ---
 
-**Normal Practice and exams**:
+## Normal Practice and exams
 
 | Date | Topic | Reference Answers | Note |
 | :----------: | :----------: | :----------: | :----------: |
@@ -27,8 +27,8 @@ This is a platform to store some math resources for my friend in this winter vac
 | 2025/1/22 | Practice 9 | [Answer 9](./Reference%20Answers/参考解答9.pdf) | Suitable for a target score of 90 |
 | 2025/1/23-2025/1/31 | | | **Days off to celebrate Chinese New Year and birthday of 20.** |
 | 2025/2/1 | [Exam 3](./Exam/Exam%203.pdf) | [Answer for Exam 3](./Reference%20Answers/试卷参考解答3.pdf), but no official answer 3 provided  | Suitable for a target score of 130 |
-| 2025/2/2-2025/2/7 | | | **Days off for I am a little tired. Sorry.** |
-| 2025/2/8 | Practice 10 | Answer 10 | Suitable for a target score of 110 |
+| 2025/2/2-2025/2/11 | | | **Days off for I am a little tired and I have other courses plans. Sorry.** |
+| 2025/2/12 | Exam 4 | Answer for Exam 4 | Suitable for a target score of 120 |
 
 ---
 
@@ -37,9 +37,9 @@ This is a platform to store some math resources for my friend in this winter vac
 **Update time**: 2025/2/3
 
 ---
-**Some exercises to return to the content of the textbook**:
+## Exercises to return to contents of textbooks
 
-(Note: We denote Compulsory Book as **CB**, Selective Compulsory Book as **SCB**.)
+(Note: We denote Compulsory Book as *CB*, Selective Compulsory Book as *SCB*.)
 
 | Due | Topic | Reference Answers | From ("People's Education Press" and "Mathematics" are ommited in the following)   |
 | :----------: | :----------: | :----------: | :----------: |
