@@ -9,7 +9,7 @@ This is a platform to store some math resources for my friend in this winter vac
 
 ---
 
-## Normal Practice and exams
+## Normal Exercises and Exams
 
 | Date | Topic | Reference Answers | Note |
 | :----------: | :----------: | :----------: | :----------: |
